@@ -1,0 +1,47 @@
+[
+    {
+        "question": "He is planning to ___ his grandparents in the countryside next weekend.",
+        "options": [
+            "visit to",
+            "visit"
+        ],
+        "answer": 1,
+        "explanation": "動詞 'visit' は他動詞で、目的語（人や場所）を直接とるため、前置詞 'to' は不要です。"
+    },
+    {
+        "question": "Our ___ to the art museum was a wonderful experience.",
+        "options": [
+            "visit",
+            "visiting"
+        ],
+        "answer": 0,
+        "explanation": "所有格 'Our' の後には名詞が続くため、名詞の 'visit' が正解です。 [1, 2, 3]"
+    },
+    {
+        "question": "The national park receives thousands of ___ every summer.",
+        "options": [
+            "visits",
+            "visitors"
+        ],
+        "answer": 1,
+        "explanation": "文脈上、「何千人もの訪問者」を意味するため、人を表す複数形の名詞 'visitors' が適切です。'visits' は「訪問の回数」を意味します。"
+    },
+    {
+        "question": "Last year, we ___ several historical sites in Italy.",
+        "options": [
+            "visited",
+            "have visited"
+        ],
+        "answer": 0,
+        "explanation": "'Last year' という過去の特定の時を示す語句があるため、過去形の 'visited' を使います。 [5, 9]"
+    },
+    {
+        "question": "I think I'll pay a ___ to the new library while I'm in town.",
+        "options": [
+            "visiting",
+            "visit"
+        ],
+        "answer": 1,
+        "explanation": "'pay a visit' は「訪問する」という意味の決まった表現です。冠詞 'a' の後なので、名詞の 'visit' が入ります。 [4, 6]"
+    }
+]
