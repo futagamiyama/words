@@ -1,11 +1,11 @@
 [
     {
-        "question": "He is planning to ___ his grandparents in the countryside next weekend.",
+        "question": "He is planning  ___ his grandparents in the countryside next weekend.",
         "options": [
-            "visit to",
-            "visit"
+            "visit",
+            "visit to"
         ],
-        "answer": 1,
+        "answer": 0,
         "explanation": "動詞 'visit' は他動詞で、目的語（人や場所）を直接とるため、前置詞 'to' は不要です。"
     },
     {
@@ -33,15 +33,15 @@
             "have visited"
         ],
         "answer": 0,
-        "explanation": "'Last year' という過去の特定の時を示す語句があるため、過去形の 'visited' を使います。 [5, 9]"
+        "explanation": "'Last year' という過去の特定の時を示す語句があるため、過去形の 'visited' を使います。"
     },
     {
         "question": "I think I'll pay a ___ to the new library while I'm in town.",
         "options": [
-            "visiting",
-            "visit"
+            "visit",
+            "visiting"
         ],
-        "answer": 1,
-        "explanation": "'pay a visit' は「訪問する」という意味の決まった表現です。冠詞 'a' の後なので、名詞の 'visit' が入ります。 [4, 6]"
+        "answer": 0,
+        "explanation": "'pay a visit' は「訪問する」という意味の決まった表現です。冠詞 'a' の後なので、名詞の 'visit' が入ります。"
     }
 ]
