@@ -8,7 +8,7 @@ git init
 git add .
 
 
-git commit -m "MESSAGE"
+git commit -m "new commit"
 
 # 4. ブランチ名を main に設定
 git branch -M main
